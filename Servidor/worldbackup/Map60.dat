@@ -1,0 +1,9 @@
+[Mapa60]
+Name=Banderbill norte
+MusicNum=12-1
+AmbNum=72
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 1
+pk=1

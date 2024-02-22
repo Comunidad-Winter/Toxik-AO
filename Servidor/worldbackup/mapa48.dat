@@ -1,0 +1,10 @@
+[mapa48]
+Name=Abandoned place
+MusicNum=51-1
+StartPos=0-0-0
+pk=0
+Terreno=NIEVE
+Zona=DUNGEON
+Restringir=No
+AmbNum=74
+MinELV=15

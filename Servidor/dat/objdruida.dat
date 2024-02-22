@@ -1,0 +1,32 @@
+[INIT]
+NumObjs=10
+
+[Obj1] ' Poción Roja
+Index=891
+
+[Obj2] ' Poción Azul
+Index=894
+
+[Obj3] ' Poción Verde
+Index=892
+
+[Obj4] ' Poción Amarilla
+Index=889
+
+[Obj5] ' Poción Violeta
+Index=890
+
+[Obj6] ' Poción AntiParálisis
+Index=893
+
+[Obj7] ' Poción AntiCeguera
+Index=895
+
+[Obj8] ' Poción AntiEstupidez
+Index=896
+
+[Obj9] ' Poción Metamorfosis
+Index=649
+
+[Obj10] ' Poción invisibilidad
+Index=1096

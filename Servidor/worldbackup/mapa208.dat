@@ -1,0 +1,10 @@
+[Mapa208]
+Name=Newbie Dungeon Nivel 2
+MusicNum=7-1
+StartPos=0-0-0
+Terreno=BOSQUE
+Zona=DUNGEON
+Restringir=Si
+BackUp= 0
+pk=1
+AmbNum=69

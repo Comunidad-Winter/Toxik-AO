@@ -1,0 +1,11 @@
+[Mapa205]
+Name=MinaOro
+MusicNum=10-1
+StartPos=0-0-0
+Terreno=BOSQUE
+Zona=DUNGEON
+Restringir=No
+PK=0
+BackUp=0
+AmbNum=71
+MinELV=25

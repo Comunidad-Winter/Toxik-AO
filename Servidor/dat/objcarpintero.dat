@@ -1,0 +1,95 @@
+[INIT]
+NumObjs=31
+
+[Obj1] ' Cuchara
+Index=163
+
+[Obj2] ' Silla
+Index=168
+
+[Obj3] ' Fragata
+Index=474
+
+[Obj4] ' Fragata reforzada
+Index=475
+
+[Obj5] ' Fragata guerra
+Index=476
+
+[Obj6] ' Arco de cazador
+Index=478
+
+[Obj7] ' Arco compuesto
+Index=479
+
+[Obj8] ' Flecha
+Index=480
+
+[Obj9] ' Laud
+Index=469
+
+[Obj10] 'Tambor
+Index=362
+
+[Obj11] 'Flauta
+Index=540
+
+[Obj12] 'Flecha + 1
+Index=551
+
+[Obj13] 'Flecha + 2
+Index=552
+
+[Obj14] 'Flecha + 3
+Index=553
+
+[Obj15] 'Mueble 
+Index=167
+
+[Obj16] 'Arco caza demonios
+Index=666
+
+[Obj17] 'Arco reforzado
+Index=709
+
+[Obj18] 'Ballesta
+Index=749
+
+[Obj19] 'Jabalina
+Index=741
+
+[Obj20] 'Jabalina +1
+Index=742
+
+[Obj21] 'Red
+Index=138
+
+[Obj22] 'Caña
+Index=881
+
+[Obj23] 'Carrito
+Index=880
+
+[Obj24] 'Arco simple
+Index=989
+
+[Obj25] 'Arco elfico
+Index=899
+
+[Obj26] 'Escudo de madera
+Index=997
+
+[Obj27] 'Flecha especial
+Index=1001
+
+[Obj28] 'Flecha especial
+Index=1082
+
+[Obj29] 'Flecha especial
+Index=1083
+
+[Obj30] 'Flecha especial
+Index=1084
+
+[Obj31] 'Flecha especial
+Index=1085

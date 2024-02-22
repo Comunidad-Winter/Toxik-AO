@@ -1,0 +1,160 @@
+'#################### LISTA DE SPAWN #############################
+[INIT]
+NumNPCs=52
+
+[LIST]
+NI1=100
+NN1=Guardia Real
+
+NI2=110
+NN2=Guardia Caótico
+
+NI3=5
+NN3=Sacerdote
+
+NI4=121
+NN4=Enfermera
+
+NI5=101
+NN5=Sacerdote Malvado
+
+NI6=166
+NN6=Eluret
+
+NI7=98
+NN7=Demonio del Caos
+
+NI8=24
+NN8=Banquero
+
+NI9=8
+NN9=Provisiones
+
+NI10=15
+NN10=Tabernero
+
+NI11=14
+NN11=Pociones
+
+NI12=7
+NN12=Herrero
+
+NI13=99
+NN13=Sastre
+
+NI14=80
+NN14=Vende Todo
+
+NI15=510
+NN15=Araña Gigante
+
+NI16=523
+NN16=Orco
+
+NI17=531
+NN17=Asesino
+
+NI18=537
+NN18=Beholder
+
+NI19=538
+NN19=Oso Pardo
+
+NI20=558
+NN20=Dark Chao
+
+NI21=541
+NN21=Ogro
+
+NI22=576
+NN22=Momia
+
+NI23=571
+NN23=Fango
+
+NI24=586
+NN24=Aparición
+
+NI25=543
+NN25=Demonio
+
+NI26=572
+NN26=Demonio Abisal
+
+NI27=552
+NN27=Gólem de Piedra
+
+NI28=577
+NN28=Gólem de Bronce
+
+NI29=579
+NN29=Gólem de Plata
+
+NI30=575
+NN30=Gólem de Oro
+
+NI31=587
+NN31=Golem de Hielo
+
+NI32=581
+NN32=Gólem Infernal
+
+NI33=585
+NN33=Yeti
+
+NI34=588
+NN34=Crako
+
+NI35=554
+NN35=Liche
+
+NI36=574
+NN36=Ogro Guerrero
+
+NI37=530
+NN37=Bandido
+
+NI38=534
+NN38=Señor de las sombras
+
+NI39=593
+NN39=Gladiador
+
+NI40=553
+NN40=Medusa
+
+NI41=578
+NN41=Medusa Matriarch
+
+NI42=549
+NN42=Orco Brujo
+
+NI43=550
+NN43=Bruja
+
+NI44=551
+NN44=Mago Malvado
+
+NI45=567
+NN45=Arquero Pirata
+
+NI46=568
+NN46=Guerrero Pirata
+
+NI47=548
+NN47=Leviatán
+
+NI48=595
+NN48=Sirena
+
+NI49=542
+NN49=Gran Dragón Negro
+
+NI50=570
+NN50=Gran Dragón Verde
+
+NI51=582
+NN51=Gran Dragón Azul
+
+NI52=590
+NN52=Rey Dragón

@@ -1,0 +1,51 @@
+Bueno gente decidido a cerrar mi iao 1.2 decidi contar el secreto que se oculta , el az bajo la manga y hago este post por que mucha gente lo necesita y sinceramente yo estube de ese lado.Como nadie dice , como hacerlo y los parches .exe no son muy fiables.Les traigo la solucion a sus problemas.
+
+Arreglos que hize:
+No tira errores de overflow y otros.
+Quests funncionando bien.
+Torneos funcionando de 10!.
+
+-------------------------------------------------
+
+(SERVIDOR)Donde dice serverip vamos a poner nuestra puerta de enlace osea vamos a Inicio->Ejecutar escrivimos CMD se nos abrira una ventana donde nosotros ponemos ipconfig. Ahi nos saltara la puerta de enlace predeterminada (en mi caso 192.168.1.1).
+
+Una vez echo esto ya tenemos el servidor ahora pasamos al cliente!.
+
+(CLIENTE)
+Dentro del cliente veremos un archivo llamado iplist.txt lo abrimos y veremos lo siguiente :
+
+aootoxik.no-ip.biz:7666:Toxik AO [Online]
+
+
+donde dice aootoxik.no-ip.biz<----- lo reemplazamos por nuestra ip donde dice 7666 nuestro puerto (recomendado que sea 7666) Donde dice Toxik AO [Online] lo reemplazamos por nuestro nombre , luego de hacer eso abrimos el Toxik AO.exe y jugamos a nuestro servidor sin desconectar internet.
+
+Antes de robar este post digo que pongan que lo sacaron de aca como fuente . Ya que se van a aprovechar de mi aporte o van a hacer copias , pongan esta fuente ;) no quiero encontrarme con un Copy y paste en otros sitios.
+
+PD:¿Como modificamos la exp del servidor?
+Vamos a Dat y abrimos el npc-hostiles.dat
+Tomamos como ejemplo el murcielago:
+[NPC500] 'Murcielago
+Name=Murciélago <---- Nombre
+Head=0 <----- caveza
+Body=9 <---- cuerpo
+Heading=3 <---- que esta mirando para el sur cuando se lo pone
+Movement=3 <---- si el npc se mueve
+Attackable=1 <---- si se puede atacar
+Comercia=0 <---- Si comercia obviamente en 0 :D
+Hostile=1 <----- si hostil osea si ataca(no lo toquen xD)
+Alineacion=2
+ReSpawn=0
+GiveEXP=20 <------ Cantidad de Experiencia que otorga el npc al matarlo.
+GiveGLD=20 <------Cantidad de oro que otorga el npc al matarlo.
+MinHP=15 <------Cantidad de vida.
+MaxHP=15 <------Cantidad de vida si lo van a cambiar por 12 por ejemplo pongan tambien 12 en Min HP
+MaxHIT=1 <------ El golpe maximo que puede dar
+MinHIT=1 <------ El golpe minimo que puede dar
+PoderAtaque=15
+PoderEvasion=15
+DEF=0
+NROITEMS=0
+miedo=1
+
+Posteado por Mathyaas en Gs-Zone.
+Si quieren el MOTD.INI manden MP.

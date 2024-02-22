@@ -1,0 +1,15 @@
+[MAPA238]
+Name=Jardin Secreto
+MusicNum=0
+MagiaSinefecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 0
+Pk=1
+[MAPA239]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0

@@ -1,0 +1,9 @@
+[Mapa116]
+Name=Dungeon Marabel
+MusicNum=15-1
+StartPos=0-0-0
+Terreno=NIEVE
+Zona=DUNGEON
+Restringir=No
+AmbNum=74
+MinELV=15

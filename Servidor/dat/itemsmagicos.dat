@@ -1,0 +1,135 @@
+'Maneja todos los items que una criatura puede llegar a tirar
+'Se define, primero, un numero X en cada item dependiendo
+'de cuán poderoso es (a mayor poder mayor numero). 
+'Luego cada criatura puede (o no) tirar el objeto.
+
+[INIT]
+NumItems=31
+
+[Item1] 'Orbe de Inhibición
+Index=651
+Prob=150
+
+[Item2] 'Nudillos (Fuerza +10)
+Index=652
+Prob=150
+
+[Item3] 'Vara de magia (+20)
+Index=653
+Prob=150
+
+[Item4] 'Anillo de agilidad (+10)
+Index=654
+Prob=150
+
+[Item5] 'Anillo de Regeneración
+Index=670
+Prob=150
+
+[Item6] 'Anillo de la Quinta Esencia
+Index=706
+Prob=150
+
+[Item7] 'Brazalete del Ogro
+Index=707
+Prob=150
+
+[Item8] 'Anillo de Defensa Mágica
+Index=708
+Prob=150
+
+[Item9] 'Anillo del guerrero (+20)
+Index=734
+Prob=150
+
+[Item10] 'Anillo de ocultismo (+20)
+Index=735
+Prob=150
+
+[Item11] 'Anillo de comercio (+30)
+Index=736
+Prob=150
+
+[Item12] 'Anillo del bardo (+30)
+Index=737
+Prob=150
+
+[Item13] 'Pendiente del arquero (+40)
+Index=738
+Prob=7
+
+[Item14] 'Pendiente del asesino (+30)
+Index=739
+Prob=150
+
+[Item15] 'Botas de levitación
+Index=752
+Prob=150
+
+[Item16] 'Anillo del guerrero (+10)
+Index=858
+Prob=150
+
+[Item17] 'Orbe Ígnea
+Index=868
+Prob=150
+
+[Item18] 'Orbe Acuática
+Index=869
+Prob=150
+
+[Item19] 'Anillo del Ladron (+20)
+Index=974
+Prob=150
+
+[Item20] 'Anillo de la vitalidad (+20)
+Index=975
+Prob=150
+
+[Item21] 'Anillo del carisma (+10)
+Index=976
+Prob=150
+
+[Item22] 'Anillo de las sombras
+Index=1006
+Prob=150
+
+[Item23] 'Pendiente del sacrificio
+Index=1081
+Prob=100
+
+[Item24] 'Sortija del silencio
+Index=755
+Prob=125
+
+[Item25] 'Gorro +20
+Index=993
+Prob=150
+
+[Item26] 'Gorro +10
+Index=992
+Prob=150
+
+[Item27] 'Escudo de reflección (Defensa mágica +40)
+Index=1180
+Prob=110
+
+[Item28] 'Armadura de cuero (Defensa mágica + 10)
+Index=1139
+Prob=12
+
+[Item28] 'Sortija de la verdad
+Index=1143
+Prob=150
+
+[Item29] 'Pendiente del experto (+20)
+Index=1149
+Prob=200
+
+[Item30] 'Vara de mago (Daño mágico +20)
+Index=1146
+Prob=150
+
+[Item31] 'Vara de mago (Daño mágico +40)
+Index=1147
+Prob=130
